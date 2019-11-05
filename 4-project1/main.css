@@ -1,0 +1,34 @@
+.inline{
+    display: inline;
+}
+
+#topSection{
+    background: url(background.jpg)center;
+    background-size: 100%;
+}
+
+/*
+#meowCoinTitle{
+    padding-left: 10px;
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+*/
+
+.meowCoinBlock{
+    padding: 0 !important;
+    margin:0 !important;
+}
+
+.rowspace{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#signupRow{
+    background-color: darkgray;
+    padding-bottom: 20px;
+}
